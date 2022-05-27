@@ -1,0 +1,63 @@
+[
+    {
+        "level": 1,
+        "title":"task-1",
+        "task": "44+65",
+        "answer":"109"
+    },
+    {
+         "level": 2,
+         "title":"task-2",
+         "task": "27+62 ",
+         "answer":"89"
+     },
+     {
+         "level": 3,
+         "title":"task-3",
+         "task": "94-33 ",
+         "answer":"61"
+     },
+     {
+         "level": 4,
+         "title":"task-4",
+         "task": "81-27 ",
+         "answer":"54"
+     },
+     {
+         "level": 5,
+         "title":"task-5",
+         "task": "8x7 ",
+         "answer":"56"
+     },
+     {
+         "level": 6,
+         "title":"task-6",
+         "task": "1+(13x3) ",
+         "answer":"40"
+     },
+     {
+         "level": 7,
+         "title":"task-7",
+         "task": "12x(9+1) ",
+         "answer":"120"
+     },
+     {
+         "level": 8,
+         "title":"task-8",
+         "task": "1+(85/5) ",
+         "answer":"18"
+     },
+     {
+         "level":9,
+         "title":"task-9",
+         "task": "(220/4)-2 ",
+         "answer":"53"
+     },
+     {
+         "level": 10,
+         "title":"task-10",
+         "task": "44+(13x3) ",
+         "answer":"83"
+     }
+
+]
